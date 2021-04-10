@@ -1,6 +1,6 @@
 {
-    "name": "#Probar Placa Lot",
-    "short_name": "#PWA_MP",
+    "name": "Probar Placa Lot",
+    "short_name": "PWA_MP",
     "description": "Bienvenido a mi aplicacion PWA para probar la placa con el codigo de arduino",
     "background_color": "#2B2B2B",
     "theme_color": "#F0DB4F",
